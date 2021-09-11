@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin:0%;
+}
+.heading
+{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 3rem;
+    color: cornflowerblue;
+    letter-spacing: 3px;
+}
+.features
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.sub
+{
+    color: cornflowerblue;
+    font-family:monospace;
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding-right: 0.25rem;
+
+}
+.numinput
+{
+    border:cornflowerblue 2px solid;
+    border-radius: 4px;
+    padding:3px;
+    margin-right: 1rem;
+    color:grey;
+    font-size: 18px;
+    font-weight: bolder;
+    width:8rem;
+}
+.btn
+{
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 8px;
+    padding:3px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: cornflowerblue 3px solid;
+    letter-spacing: 3px;
+}
+.Paras
+{
+    font-size: 17px;
+    color:gray;
+    margin-top:2.5rem;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-left: 20%;
+    width:60%;
+    margin-bottom: 3rem;
+}
+.btn:hover
+{
+    color: indigo;
+    cursor: pointer;
+}
